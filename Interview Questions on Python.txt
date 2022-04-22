@@ -1,0 +1,41 @@
+(A) Data Type:
+
+1. What are the main Data types in Python?
+2. What is Mutable & Immutable Data Type?
+3. Write a list of Mutable and immutable data types?
+4. What does mapping mean and what kind of data type is based on mapping?
+5. What is difference between List & Tuples?
+
+
+(B) Operators:
+
+1. What are the types of python operators?
+2. Tell me a use of Membership Operators?
+3. What is Operand?
+4. if both variables are the same object, which operator returns True?(is / is not)
+5. Which operator is used to Inverts all the bits? (~)
+
+
+(C) Conditional Statements:
+
+1. What are the three main conditional statements in Python?
+2. What does elif mean?
+3. How is the Python switch statement used?
+4. What signifies the end of a statement block or suite in Python?
+5. What is indentation error in python?
+
+(D) Looping statements:
+
+1. What is nasted loop?
+2. How while loop works?
+3. when loop become infinite.
+4. What are the types of contril statements
+5. Difference in for loop & while loop.
+
+(E) Functions:
+
+1. Describe function in Python?
+2. List the 5 Built in functions
+3. Give the Advantages of user defined functions.
+4. Describe Arguments of a Function
+5. What are the types of arguments.
